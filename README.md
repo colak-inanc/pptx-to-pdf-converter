@@ -22,4 +22,3 @@ python pptxtopdf.py
   <img src="assets/transformation.png" width="30%" alt="Dönüşüm Başarısı"/>
 </p>
 
-> Dikkat!! dönüşümü tamamlanan pdf dosyaları seçilen sunum dosyalarının konumuna kaydedilecektir. 
